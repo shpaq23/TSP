@@ -1,0 +1,8 @@
+Total distance: 8149.35 Generation: 300
+Probability of mutation: 0.3
+Probability of crossover: 0.8
+Population size: 100
+Upgraded elitism strategy: ENABLED
+Tournament selection[3]
+Greedy algorithm init population: ENABLES
+Selected seed: 25692
